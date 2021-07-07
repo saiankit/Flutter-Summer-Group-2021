@@ -15,6 +15,7 @@ We would be having a capstone project ( assignment ) at the end, which will cove
 
 
 1. [Introduction](https://github.com/saiankit/Flutter-Summer-Group-2021/tree/master/Module%201)
+<br>
 This module includes installation, Hello world application, Fundamentals of Flutter framework, and basic widgets of Flutter.
 
 ##### Project
