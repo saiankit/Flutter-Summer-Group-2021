@@ -1,7 +1,7 @@
 
 # Flutter Summer Group 2021
 
-This is the official repository for Flutter Summer Group hosted by cruX, and all the course content along with assingments will be posted here in conjunction with the Discord channel.
+This is the official repository for Flutter Summer Group hosted by cruX, and all the course content along with assignments will be posted here in conjunction with the Discord channel.
 
 
 
@@ -14,8 +14,8 @@ We would be having a capstone project ( assignment ) at the end, which will cove
 #### Syllabus - What you will learn from this course
 
 
-1. [Introduction](https://github.com/saiankit/Flutter-Summer-Group-2021/tree/master/Module%201)
-<br>
+1. [Introduction](https://github.com/saiankit/Flutter-Summer-Group-2021/tree/master/Module%201)\
+
 This module includes installation, Hello world application, Fundamentals of Flutter framework, and basic widgets of Flutter.
 
 ##### Project
