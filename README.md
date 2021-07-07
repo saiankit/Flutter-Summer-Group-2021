@@ -14,27 +14,27 @@ We would be having a capstone project ( assignment ) at the end, which will cove
 #### Syllabus - What you will learn from this course
 
 
-1. **Introduction**
+1. [Introduction](https://github.com/saiankit/Flutter-Summer-Group-2021/tree/master/Module%201)
 This module includes installation, Hello world application, Fundamentals of Flutter framework, and basic widgets of Flutter.
 
-###### Project
+##### Project
 
 2. **Flutter Deep Dive Widgets**
 This module covers more widgets of Flutter, Material Design, widget tree, state of the widget, packages, assets, etc.
 
-###### Project
+##### Project
 
 3. **State Management**
 This module will cover State Management with Provider for Flutter.
-###### Project
+##### Project
 
 4. **Connect your app to a Server**
 This module will teach you how to use HTTP Requests in your app
-###### Project
+##### Project
 
 5. **Connect your app to a Cloud database**
 This module will teach you how to connect Firebase to your Flutter app
-###### Capstone Project
+##### Capstone Project
 
 
 ## Support
