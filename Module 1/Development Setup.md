@@ -1,0 +1,36 @@
+## Development Setup
+### Shift to VS Code
+**Android Studio** is generally Bulky and uses a lot of RAM, which causes a lot of pressure on your machine, leading to lag and heating. So, we won't be using Android Studio as our IDE for development and shift to **VS Code** as our primary IDE for Flutter Development. In addition to the advantage mentioned above, VS Code supports a lot of **extensions** to work with, which make the development experience productive.
+
+### Connect your Physical Device
+If you are going to use Emulator with VS Code, you need to use Android Studio, indirectly you have to employ Android Studio.
+
+So if your Laptop is heating a lot during development, I would prefer to use your mobile phone as your Emulator.
+
+`Copy Paste from Stack Overflow`
+
+For **Android**, this is pretty easy:
+
+1. Enable Developer Options and USB debugging on your device. This varies slightly by Android version, but the short version is you tap on the Device Build Number 7 times. Then a "Developer Options" option comes up, and you can click "enable USB Debugging." See the linked Android documentation for the most up-to-date instructions.
+2. Then plug your phone into your computer with a USB cable. You'll probably see some popup on your phone asking if you want to allow USB debugging with that computer. Say "yes."
+3. Run Flutter just like you would if you had a simulator running.
+
+For **iOS** this is a little more complicated because you need an Apple ID or to sign up for a "Developer Account":
+
+1. Open XCode, then open "Preferences>Accounts." Sign in with your ID.
+"Manage Certificates" > click on the "+" sign and select "iOS Development".
+2. Plug your device into your machine. Find your device in the drop-down (Window > Organizer).
+3. Below the Team popup menu, click Fix Issue.
+4. In Xcode, click the Run button.
+
+(in subsequent runs, you can deploy to the iOS device with Android Studio, VS Code, or any other IDE of choice, you need to set up that certificate the first time with Xcode. [Here's Apple's documentation](https://help.apple.com/xcode/mac/current/#/dev60b6fbbc7) on setting up Xcode to run a physical device.)
+
+
+### VS Code Setup
+
+VS Code is known for its extensive library of extensions, and we would be downloading some of them for a better development experience and productivity.
+
+1. [Awesome Flutter Snippets by Neevash Ramdial](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets)
+2. [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+3. [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code)
+4. [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
