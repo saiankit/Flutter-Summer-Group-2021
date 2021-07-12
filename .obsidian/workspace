@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Module 2/1.Constraints+State.md",
+            "file": "Module 2/README.md",
             "mode": "source"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Module 2/1.Constraints+State.md",
+            "file": "Module 2/README.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 2/1.Constraints+State.md",
+                "file": "Module 2/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "084157186a913746",
   "lastOpenFiles": [
+    "Module 2/README.md",
     "Module 2/1.Constraints+State.md",
+    "Module 1/README.md",
+    "Module 2/Untitled.md",
     "Module 1/3.DartnWidgets.md",
     "Module 1/1.Development Setup.md",
     "Module 1/2.Basics.md",
     "Module 1/0.Installation.md",
     "Module 1/Assignment.md",
-    "Module 2/0.MoreWidgetsMoreMoreWidgets.md",
-    "Module 2/Untitled.md",
-    "Module 1/README.md",
-    "Module 1/Assignment.png"
+    "Module 2/0.MoreWidgetsMoreMoreWidgets.md"
   ]
 }
